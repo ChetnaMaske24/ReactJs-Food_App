@@ -5,6 +5,8 @@ import Home from './pages/Home';
 import Menu from './pages/Menu';
 import About from './pages/About';
 import ContactUs from './pages/ContactUs';
+import Footer from './components/Footer';
+
 
 
 function App() {
@@ -18,6 +20,7 @@ function App() {
           <Route path='/about' exact element={<About />}/>
           <Route path='/contactUs' exact element={<ContactUs />}/>
         </Routes>
+      <Footer />
       </Router>
     </div>
   );
