@@ -4,6 +4,7 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 import YouTubIcon from '@mui/icons-material/YouTube';
 import TwitterIcon from '@mui/icons-material/Twitter';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import "../styles/Footer.css"
 
 function Footer() {
   return (

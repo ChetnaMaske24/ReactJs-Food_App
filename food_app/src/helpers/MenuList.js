@@ -1,7 +1,7 @@
 import Pepperoni from "../assets/BuffaloPizza.jpg";
 import Margherita from "../assets/paneerPizza.webp";
 import PedroTechSpecial from "../assets/TandooriPizza.jpg";
-import Vegan from "../assets/Pepperoni.png";
+import Vegan from "../assets/pepperoni.png";
 import Pineapple from "../assets/veggie-pizza.jpg";
 import Expensive from "../assets/WorksPizza.jpg";
 
